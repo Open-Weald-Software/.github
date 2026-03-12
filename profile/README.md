@@ -1,6 +1,6 @@
 # Open Weald Software
 
-Open Weald Software develops open source software that helps communities manage projects, funding, and civic infrastructure. Our primary project is Commons Atlas, a platform designed to support the long-term stewardship of community institutions and shared public systems.
+Open Weald Software develops open source software that helps communities manage projects, funding, and civic infrastructure. Our primary project is Commons Atlas, a platform designed to support the long-term stewardship of community institutions, shared public systems, and community projects that benefit the public good.
 
 The work in this organization focuses on building practical tools that help communities organize complex projects and sustain the infrastructure they rely on.
 
